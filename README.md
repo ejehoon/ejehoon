@@ -40,3 +40,5 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <br />
 <br />
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+
