@@ -36,9 +36,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />MySQL]
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
----
 
