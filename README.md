@@ -30,13 +30,11 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
-<!-- style -->
-?style=plastic&logo=appveyor
-<!-- end style -->
 
 
 
 <h2>  ### Languages and Tools:  </h2>
+
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
 <br />
