@@ -36,9 +36,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <h2>  ### Languages and Tools:  </h2>
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+
+
+<br />
+<br />
 
