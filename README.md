@@ -30,5 +30,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
-
+<!-- style -->
 ?style=plastic&logo=appveyor
+<!-- end style -->
