@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 **Talking about Personal Stuffs:**
-- 👨‍🏛 I am currently a student of ** Dankook University **.
-- 💻 Major is ** Statistics **.
-- 🌱 I'm currently learning ** Data analysis **. 
-- 💬 If you have any questions, ** just ask me **.
-- This is my email: ** kaak334@naver.com **.
+- 👨‍🏛 I am currently a student of Dankook University
+- 💻 Major is Statistics
+- 🌱 I'm currently learning Data analysis
+- 💬 If you have any questions just ask me 
+- This is my email: kaak334@naver.com 
 
 
 
