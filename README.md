@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Data analysis
 - 💬 If you have any questions just ask me 
 - This is my email: kaak334@naver.com 
-- My blog is blog.jaegoon2.com
+- My blog 📝 Click [blog] (https://blog.jaehoon2.com/)
 
 
 
