@@ -24,12 +24,13 @@
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejehoon%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
-        [![GitHub Streak](https://streak-stats.demolab.com?user=ejehoon&theme=transparent)](https://git.io/streak-stats)
+
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ejehoon&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejehoon&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+            [![GitHub Streak](https://streak-stats.demolab.com?user=ejehoon&theme=transparent)](https://git.io/streak-stats)
     
 
