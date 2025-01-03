@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to My Github
 
-[기술블로그](https://leejaehoon.tistory.com/)  [포트폴리오](https://www.notion.so/a536c93b9d874b3dabc6aa818e050cde)
+[기술블로그](https://leejaehoon.tistory.com/)  | [포트폴리오](https://www.notion.so/a536c93b9d874b3dabc6aa818e050cde)
 
 ## 🧑‍🎓 Educations & Experiences
 - 2023.07 ~ 2023.08 데이터 청년 캠퍼스 수료
@@ -11,6 +11,7 @@
 - 2024.08 단국대학교 SW융합학부 정보통계학과 졸업
 - 2024.08 ~ 2024.11 🇵🇭 필리핀 어학연수
 - 2024.12 ~ ing LG전자 Dx School
+
 
 ## 👨‍💻 Main Project
 
@@ -21,7 +22,8 @@
 
 
 
-## 🖥️ Side 
+## 🖥️ Side Project
+- 2024.12 ~ ing [KR_Labs 연구실 조회 사이트](https://github.com/ejehoon/KR_Labs/blob/main/README.md)
 
 
 ## 🏆Awards
