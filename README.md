@@ -19,7 +19,7 @@
 |--------------------------------------|-----------------------------|-------------------------|-------------------|------------------------|
 | <img src="https://github.com/ejehoon/AI_Medico/blob/main/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-01-03%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.38.42.png" width="100"> | [🏥 AI MEDICO](https://github.com/ejehoon/AI_Medico) | 2023.07 ~ 2023.08 | 기획, 백엔드, 서버, 챗봇 | AI 의료 코디네이터 서비스 |
 | <img src="https://github.com/ejehoon/EZPill/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-01-03%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.41.00.png" width="100"> | [💊 EZPill](https://github.com/ejehoon/EZPill) | 2023.09 ~ 2023.12 | 기획, 백엔드, 서버, 챗봇 | 맞춤형 영양제 소분 서비스 |
-| <img src="https://via.placeholder.com/100" width="100"> | [🍀 네이버 클라우드](https://www.notion.so/798d4dc253f94d7eb17f3d1f0661740a?v=f1f3f447885847cda595a2b096167ac1) | 2024.04 ~ 2024.07 | 기획, 리서치 | AI 기반 서비스의<br>요구사항과 기능 사례를 조사·분석 |
+| <img src="https://github.com/ejehoon/NAVER_CLOUD-CLOVA_Studio/blob/main/naver.jpeg" width="100"> | [🍀 네이버 클라우드](https://github.com/ejehoon/NAVER_CLOUD-CLOVA_Studio) | 2024.04 ~ 2024.07 | 기획, 리서치 | AI 기반 서비스의<br>요구사항과 기능 사례를 조사·분석 |
 
 
 ## 🖥️ Side Project
