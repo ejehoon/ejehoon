@@ -36,4 +36,10 @@
     <a href="mailto:kaak2203@naver.com">
         <img src="https://img.shields.io/badge/Naver-037C5A?style=flat-square&logo=Naver&logoColor=white"> 
 </div>
+
+## 🎡 Zoo
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ejehoon"/>
+</a>
  
