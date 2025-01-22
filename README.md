@@ -39,7 +39,11 @@
 
 ## 🎡 Zoo
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/ejehoon"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ejehoon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ejehoon"
+  width="600"
+  height="300"
+/>
 </a>
  
